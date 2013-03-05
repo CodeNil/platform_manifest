@@ -8,6 +8,9 @@
   <remote  name="cb42"
            fetch="https://github.com/CodeNil/" />
 
+  <remote  name="codenil"
+           fetch="https://github.com/CodeNil/" />
+
   <remote  name="aokp"
            fetch="https://github.com/AOKP/"
            review="gerrit.aokp.co" />
