@@ -5,9 +5,6 @@
            fetch="https://android.googlesource.com/"
            review="https://android-review.googlesource.com/" />
 
-  <remote  name="cb42"
-           fetch="https://github.com/CodeNil/" />
-
   <remote  name="codenil"
            fetch="https://github.com/CodeNil/" />
 
