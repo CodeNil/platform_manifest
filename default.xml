@@ -35,10 +35,6 @@
   <project path="build" name="android_build" remote="codenil" revision="cb42" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
-  <project path="codebox" name="buildscript" remote="codenil" revision="cb42" >
-    <copyfile src="build_all.sh" dest="build_all.sh" />
-    <copyfile src="build_codebox.sh" dest="build_codebox.sh" />
-  </project>
   <project path="abi/cpp" name="platform/abi/cpp" />
   <project path="bionic" name="android_bionic" remote="cm" revision="cm-10.1" />
   <project path="bootable/diskinstaller" name="android_bootable_diskinstaller" remote="cm" revision="cm-10.1" />
